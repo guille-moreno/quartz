@@ -18,4 +18,5 @@ También con la pena de ver destrozado algo tan bonito como el ideal de vínculo
 
 Como comentaba anteriormente, ahora no me queda energía para forzar y acordar esos encuentros, así que, espero tener la misma suerte que con la lista. Prefiero trabajar en mantener los vínculos que ahora tengo y que quiero mantener, que no es poco.
 
-https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5?si=YSMT8nxqSV-oz2YcZzZs1g
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1HfMVBKM75vxSfsQ5VefZ5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
