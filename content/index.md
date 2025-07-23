@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: ¡Me has encontrado!
 ---
+Hola, lector.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+De momento, voy a copiar los [[00. Lista de poemas|poemas]] que tengo en mi antiguo blog de escritura <http://creerparaverte.wordpress.com>
+
+Iré actualizando para poder hacer el primer deploy.
