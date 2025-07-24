@@ -302,4 +302,5 @@ export default async (argv: Argv, mut: Mutex, clientRefresh: () => void) => {
   } catch (err) {
     trace("\nExiting Quartz due to a fatal error", err as Error)
   }
+  inject()
 }
