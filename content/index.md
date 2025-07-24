@@ -1,5 +1,5 @@
 ---
-title: ¡Me has encontrado!
+title: ":seedling: ¡Me has encontrado!"
 ---
 Hola, lector.
 
