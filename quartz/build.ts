@@ -21,6 +21,7 @@ import { getStaticResourcesFromPlugins } from "./plugins"
 import { randomIdNonSecure } from "./util/random"
 import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
+import { inject } from "@vercel/analytics"
 
 type ContentMap = Map<
   FilePath,
@@ -51,6 +52,8 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     allFiles: [],
     incremental: false,
   }
+
+  inject() // Initialize Vercel Analytics
 
   const perf = new PerfTimer()
   const output = argv.output
