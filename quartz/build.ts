@@ -21,7 +21,7 @@ import { getStaticResourcesFromPlugins } from "./plugins"
 import { randomIdNonSecure } from "./util/random"
 import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
-import { inject } from "@vercel/analytics/*"
+import { inject } from "@vercel/analytics"
 
 type ContentMap = Map<
   FilePath,
