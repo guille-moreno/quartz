@@ -43,6 +43,8 @@ type BuildData = {
   lastBuildMs: number
 }
 
+  inject() // Initialize Vercel Analytics
+
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
     buildId: randomIdNonSecure(),
@@ -53,7 +55,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     incremental: false,
   }
 
-  inject() // Initialize Vercel Analytics
+
 
   const perf = new PerfTimer()
   const output = argv.output
@@ -302,5 +304,4 @@ export default async (argv: Argv, mut: Mutex, clientRefresh: () => void) => {
   } catch (err) {
     trace("\nExiting Quartz due to a fatal error", err as Error)
   }
-  inject()
 }
