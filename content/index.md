@@ -1,9 +1,11 @@
 ---
 title: ¡Me has encontrado!
 ---
-Hola, lector.
+¡Hola, lector!
 
 Me llamo Guille, y te doy la bienvenida a mi jardín digital. [[Ahora]] estoy _liao_ con esto.
+
+![[IMG_6034(1).heic]]
 
 Estoy preparando lo que será la forma principal de relacionarme con Internet. 
 
