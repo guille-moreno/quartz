@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "tinylytics",
-      siteId: "KZVWF4td63wa3KKcFb8F",
+      provider: "goatcounter",
+      websiteId: "guillemoreno",
     },
     locale: "es-ES",
     baseUrl: "guillemoreno.xyz",
