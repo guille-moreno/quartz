@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       siteId: "KZVWF4td63wa3KKcFb8F",
     },
     locale: "es-ES",
-    baseUrl: "http://guillemoreno.xyz",
+    baseUrl: "guillemoreno.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
