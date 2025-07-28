@@ -1,4 +1,3 @@
-import { inject } from "@vercel/analytics/*"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
