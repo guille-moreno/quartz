@@ -1,3 +1,4 @@
+import { inject } from "@vercel/analytics/*"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -56,6 +57,7 @@ const config: QuartzConfig = {
     },
   },
   plugins: {
+    inject: [Plugin.InjectScript({ src: "https://cdn.vercel-insights.com/v1/script.js" })],
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
