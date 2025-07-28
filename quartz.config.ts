@@ -14,10 +14,11 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
+      siteId: "KZVWF4td63wa3KKcFb8F",
     },
     locale: "es-ES",
-    baseUrl: "http://guillemoreno.xyz/",
+    baseUrl: "http://guillemoreno.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
