@@ -21,7 +21,7 @@ import { getStaticResourcesFromPlugins } from "./plugins"
 import { randomIdNonSecure } from "./util/random"
 import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
-import { inject } from "@vercel/analytics"
+
 
 type ContentMap = Map<
   FilePath,
@@ -43,7 +43,6 @@ type BuildData = {
   lastBuildMs: number
 }
 
-  inject() // Initialize Vercel Analytics
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
