@@ -57,7 +57,6 @@ const config: QuartzConfig = {
     },
   },
   plugins: {
-    inject: [Plugin.InjectScript({ src: "https://cdn.vercel-insights.com/v1/script.js" })],
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
