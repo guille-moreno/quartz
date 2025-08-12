@@ -1,9 +1,9 @@
 ---
-title: Ahora
+title: Conserva de berenjenas
 draft: false
 tags: alimentos
 description: Estado
-date: 2025-07-29
+date: 2025-00-12
 ---
 He hecho con mi familia una primera tanda de berenjenas en conserva. Hemos seguido la siguiente receta:
 
