@@ -11,4 +11,4 @@ El formato sigue siendo muuuuy provisional.
 
 De momento sigo estudiando la estructura de [Quartz](https://quartz.jzhao.xyz) y estoy viendo cómo poder insertar imágenes. Ya tengo preparadas las métricas con [GoatCounter](https://goatcounter.com) para poder ver mis lectores, después de intentar sin éxito implementar las analíticas de [Vercer](https://vercel.com).
 
-Me voy de vacaciones una semana, y no podré conectarme al jardín :sad:.
+¡He vuelto de vacaciones! y he hecho mi primera [[Conserva de berenjenas]] con mi familia.
