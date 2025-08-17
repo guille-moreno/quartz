@@ -8,9 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Bluesky": "https://bsky.app/profile/guillemoreno.bsky.social",
+      "Bluesky": "https://bsky.app/profile/guillemoreno.xyz",
       "Mastodon": "https://masto.es/@yiye",
       "Instagram": "https://instagram.com/yiye.zip",
+      "Mail": "mailto:hola@guillemoreno.xyz",
     },
   }),
 }

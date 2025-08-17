@@ -1,9 +1,10 @@
 ---
 title: Conserva de berenjenas
 draft: false
-tags: alimentos
-description: Estado
-date: 2025-00-12
+tags:
+  - alimentos
+description: conserva de berenjenas
+date: 2025-08-17
 ---
 He hecho con mi familia una primera tanda de berenjenas en conserva. Hemos seguido la siguiente receta:
 
@@ -19,4 +20,6 @@ He hecho con mi familia una primera tanda de berenjenas en conserva. Hemos segui
 
 Las dejamos hirviendo durante 14 min desde que comenzó a hervir. 
 
-¿El resultado? Todavía es pronto para decir. Las probamos recién cocidas y todavía no habían cogido gusto. Seguiré informando cuando repose un par de días.
+![[berenjenas1.jpg]]
+
+¿El resultado? Se han probado...y han quedado algo sosas y pasadas. Ajustaremos el tiempo de cocción para la siguiente tanda, y probablemente utilicemos más condimento para la misma cantidad.
