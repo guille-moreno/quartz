@@ -97,9 +97,15 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
-    margin-top: 8px;
-    padding-bottom: 2px;
-    padding-right: 5px;
+    &.internal::after {
+      content: '';
+      height: 13px;
+      width: 100%;
+      background-color: var(--highlight);
+      display: block;
+      border-radius: 0px;
+      margin-top: -8px;
+      }
 
     &.broken {
       color: var(--secondary);
