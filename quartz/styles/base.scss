@@ -96,15 +96,13 @@ a {
 
   &.internal {
     text-decoration: none;
-    background-color: var(--highlight);
     &.internal::after {
       content: '';
       height: 13px;
-      width: 100%;
       background-color: var(--highlight);
       display: block;
       border-radius: 0px;
-      margin-top: -8px;
+      margin-top: -5px;
       }
 
     &.broken {
