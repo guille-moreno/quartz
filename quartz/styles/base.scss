@@ -96,12 +96,10 @@ a {
 
   &.internal {
     text-decoration: none;
-      content: '';
-      height: 13px;
-      background-color: var(--highlight);
-      display: block;
-      border-radius: 0px;
-      margin-top: -5px;
+    background-color: var(--highlight);
+    padding: 0 0.1rem;
+    border-radius: 0px;
+    line-height: 0.8rem;
        
 
     &.broken {
