@@ -96,14 +96,14 @@ a {
 
   &.internal {
     text-decoration: none;
-    &.internal::after {
-      content: '';
-      height: 13px;
-      background-color: var(--highlight);
-      display: block;
-      border-radius: 0px;
-      margin-top: -5px;
-      }
+      &::after {
+        content: '';
+        height: 13px;
+        background-color: var(--highlight);
+        display: block;
+        border-radius: 0px;
+        margin-top: -5px;
+       }
 
     &.broken {
       color: var(--secondary);
