@@ -91,13 +91,13 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary);
+    color: var(--highlight);
   }
 
   &.internal {
     &:hover {
       text-decoration-line: line-through;
-      text-decoration-color: var(--highlight);
+      text-decoration-color: var(--tertiary);
       text-decoration-thickness: 0.4rem;
       height: 50%;
       border-radius: 0px;
