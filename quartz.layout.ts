@@ -5,7 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'guille-moreno/quartz',
+      // from data-repo-id
+      repoId: 'R_kgDOPRT_VA',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOPRT_VM4CueMO',
+      // from data-lang
+      lang: 'es',
+      themeUrl: "http://guillemoreno.xyz/static/giscus", // corresponds to quartz/static/giscus/
+      lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
+      darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
+    }
+  }),
+  ],
   footer: Component.Footer({
     links: {
       "Bluesky": "https://bsky.app/profile/guillemoreno.xyz",
