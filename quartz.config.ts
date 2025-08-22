@@ -58,6 +58,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.Remark42({ host: "http://guille-comments.zeabur.app/", siteId: "remark", no_footer: true }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
@@ -93,7 +94,7 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
-      Plugin.Remark42({ host: "http://guille-comments.zeabur.app/", siteId: "remark", no_footer: true }),
+
     ],
   },
 }
