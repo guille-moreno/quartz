@@ -93,6 +93,7 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
+      Plugin.Remark42({ host: "http://guille-comments.zeabur.app/", siteId: "remark", no_footer: true }),
     ],
   },
 }
