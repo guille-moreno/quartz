@@ -58,7 +58,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.Remark42({ host: "http://guille-comments.zeabur.app/", siteId: "comentariosguille", no_footer: true }),
+      #Plugin.Remark42({ host: "http://guille-comments.zeabur.app/", siteId: "comentariosguille", no_footer: true }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
