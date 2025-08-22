@@ -97,7 +97,7 @@ a {
   &.internal {
     &:hover {
       text-decoration-line: underline;
-      text-decoration-color: var(--highlight);
+      text-decoration-color: var(--secondary) 60%;
       text-decoration-skip-ink: none;
       text-decoration-thickness: 0.4rem;
       border-radius: 0px;
