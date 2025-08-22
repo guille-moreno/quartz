@@ -91,17 +91,17 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--highlight);
+    color: var(--tertiary);
   }
 
   &.internal {
     &:hover {
       text-decoration-line: line-through;
-      text-decoration-color: var(--tertiary);
+      text-decoration-color: var(--secondary);
       text-decoration-thickness: 0.4rem;
-      height: 50%;
+      height: 60%;
       border-radius: 0px;
-      line-height: 1.5rem;
+      text-underline-offset: 0.1rem;
     }
 
     &.broken {
