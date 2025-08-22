@@ -15,9 +15,7 @@ export default ((opts?: Options) => {
       
       <footer class={`${displayClass ?? ""}`}>
         <div id="remark42">
-
         </div>
-        <div class="remark42__last-comments" data-max="50"></div>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
