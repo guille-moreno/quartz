@@ -95,12 +95,14 @@ a {
   }
 
   &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    margin: -0.5rem 0.2rem 0.1rem 0;
-    height: 50%;
-    border-radius: 0px;
-    line-height: 1.5rem;
+    &:hover {
+      text-decoration-line: line-through;
+      text-decoration-color: var(--highlight);
+      text-decoration-thickness: 0.4rem;
+      height: 50%;
+      border-radius: 0px;
+      line-height: 1.5rem;
+    }
 
     &.broken {
       color: var(--secondary);
