@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       
       <footer class={`${displayClass ?? ""}`}>
-        <div id="remark42">
+        <div id="guillemorenocomentarios">
         </div>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
