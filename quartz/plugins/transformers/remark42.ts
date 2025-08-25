@@ -82,7 +82,7 @@ export const Remark42: QuartzTransformerPlugin<Options> = (opts?: Options) => {
         css: [
           // base css
         ],
-        js: scripts
+        js: scripts,
       }
     },
   }

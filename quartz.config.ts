@@ -58,7 +58,6 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.Remark42({ host: "http://guillemorenocomentarios.zeabur.app", site_id: "guillemorenocomentarios", no_footer: true }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
@@ -75,6 +74,10 @@ const config: QuartzConfig = {
       Plugin.HardLineBreaks(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.Remark42({
+         host: "https://guillemorenocomentarios.zeabur.app",
+         site_id: "guillemorenocomentarios",
+         no_footer: true }),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
