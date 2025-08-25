@@ -10,7 +10,7 @@ interface Options {
   components?: Array<String>
   max_shown_comments?: number
   max_last_comments?: number
-  theme?: 'light' | 'dark'
+  theme?: "light" | "dark"
   page_title?: string // Don't use this, it'll break your comment database. It's included for the sake of completeness.
   locale?: string // Technically an enum, full list at https://remark42.com/docs/configuration/frontend/#locales
   show_email_subscription?: boolean
@@ -38,7 +38,7 @@ export const Remark42: QuartzTransformerPlugin<Options> = (opts?: Options) => {
   // Put the embeddable components into window scope
   function getComment(e: Array<String>) {
     for (var o = 0; o < e.length; o++) {
-      var src = opts?.host + '/web/' + e[o] + '.js'
+      var src = opts?.host + "/web/" + e[o] + ".js"
       scripts.push({ src: src, loadTime: "afterDOMReady", contentType: "external", })
     }
   }
