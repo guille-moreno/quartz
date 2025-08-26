@@ -25,6 +25,7 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
+          <a rel="me" href="https://masto.es/@yiye">Mastodon</a>
         </ul>
       </footer>
     )
