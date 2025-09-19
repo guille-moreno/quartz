@@ -16,7 +16,7 @@ Lo primero es mentalizarte a que vas a tener que buscar 57 iconazos. Paso import
 
 El reel te dirige a esta [herramienta](https://micetf.fr/symbole-commun/), que es la que te genera las proto-fichas; para después confeccionarlas en tu herramienta de diseño gráfico de confianza.
 
-![Imagen 1. Dos protofichas](image.png)
+![[image.png | Imagen 1. Ejemplo de proto-fichas]]
 
 Una vez generadas las proto-fichas lo siguiente es preparar el diseño de las fichas, tanto el anverso como el reverso. En mi caso yo utilicé Illustrator para que el diseño quedara clavado y así ahorrarme quebraderos de cabeza al imprimir.
 
