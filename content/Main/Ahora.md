@@ -11,6 +11,8 @@ El formato sigue siendo muuuuy provisional.
 
 De momento sigo estudiando la estructura de [Quartz](https://quartz.jzhao.xyz) y estoy viendo cómo poder insertar imágenes.
 
-Van a subir la cuota de Spotify, plataforma que utilizo. Empezaré a estudiar si me cambio a alguna alternativa, o incluso si vuelvo a descargar mi música.
+Me he ido de Spotify, de momento estoy probando gratuitamente Apple Music e investigando sobre mods de Youtube Music.
+
+Hola desde fedora en mi portátil! No sabéis lo que me ha gustado cacharrear y volver a poner a punto la sincronización del blog desde "otro terminal".
 
 Estoy un poco trastocado con la vuelta a la rutina, buscando en septiembre algo que sirva como nuevo refugio.

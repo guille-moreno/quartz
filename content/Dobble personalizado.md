@@ -10,7 +10,7 @@ Recientemente he creado un regalo que ha sido muy especial y he disfrutado basta
 
 Voy a comentaros mi proceso creativo por si queréis utilizar esta tremenda idea para regalar.
 
-La idea me salió en Instagram, concretamente viendo este [reel](https://www.instagram.com/reel/DJ4yWpgIRoi/?igsh=NzNuenI0NHJoMmM2) y dije: **manos a la obra**, será divertido.
+La idea me salió en Instagram, concretamente viendo este [reel](https://www.instagram.com/reel/DJ4yWpgIRoi/?igsh=NzNuenI0NHJoMmM2) y dije: **manos a la obra**, será divertido. Seguro que a mi amorchito le encanta.
 
 Lo primero es mentalizarte a que vas a tener que buscar 57 iconazos. Paso importante porque te vas a cansar de tanto iconito, pero confía en el proceso.
 
