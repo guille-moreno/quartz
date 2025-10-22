@@ -5,7 +5,7 @@ title: ¡Me has encontrado!
 
 Me llamo Guille, y te doy la bienvenida a mi jardín digital. [[Ahora]] estoy _liao_ con esto.
 
-![[inicio.jpg|200x200]]
+![[inicio.jpg|400x400]]
 
 Estoy preparando lo que será la forma principal de relacionarme con Internet. 
 
