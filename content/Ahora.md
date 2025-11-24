@@ -15,4 +15,4 @@ Me he ido de Spotify, de momento estoy probando gratuitamente Apple Music e inve
 
 Hola desde fedora en mi portátil! No sabéis lo que me ha gustado cacharrear y volver a poner a punto la sincronización del blog desde "otro terminal".
 
-Estoy un poco trastocado con la vuelta a la rutina, buscando en septiembre algo que sirva como nuevo refugio.
+chicas chicas chicas primera bronca en volei!!
