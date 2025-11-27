@@ -13,6 +13,4 @@ De momento sigo estudiando la estructura de [Quartz](https://quartz.jzhao.xyz) y
 
 Me he ido de Spotify, de momento estoy probando gratuitamente Apple Music e investigando sobre mods de Youtube Music.
 
-Hola desde fedora en mi portátil! No sabéis lo que me ha gustado cacharrear y volver a poner a punto la sincronización del blog desde "otro terminal".
-
-chicas chicas chicas primera bronca en volei!!
+Hola desde fedora en mi portátil! No sabéis lo que me ha gustado cacharrear y volver a poner a punto la sincronización del blog desde "otro terminal". Ahora tengo problemas para configurar rclone al iniciar el portátil, y con la tarjeta gráfica de NVIDIA.
