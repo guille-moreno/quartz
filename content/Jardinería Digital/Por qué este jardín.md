@@ -12,3 +12,5 @@ Además me interesa la idea de tener un cuarto propio dentro de internet.
 He empezado por aquí, estaré viendo tutoriales de como utilizar Obsidian.
 
 He tomado inspiración de [web de Jzhao](http://jzhao.xyz) sobre la utilización de Quartz para publicar mis notas.
+
+Este [vídeo](https://www.youtube.com/watch?v=Lm0gb4wDKCE) que vi hace poco me animó un poquito más a retomar este blog y abandonar redes sociales.
