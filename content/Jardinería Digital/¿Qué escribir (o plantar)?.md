@@ -15,5 +15,3 @@ Utilizar las plataformas de moda es tan cómodo... aunque cada vez me puede el a
 Estoy hartísimo de las pausas publicitarias obligatorias, de las publicaciones "sugeridas", y de los gitanos en TikTok pidiendo perras. [[Por qué este jardín]]
 
 ¿La gente está tan insensibilizada como para pasar por alto toda la demostración que vemos del concepto de [*enshittification*](https://en.wikipedia.org/wiki/Enshittification)que sufrimos en nuestras carnes?
-
-
